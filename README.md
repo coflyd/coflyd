@@ -6,13 +6,11 @@
 
 **Majeure cybersécurité, section internationale.** Diplôme d'ingénieur accrédité par la CTI. Enseignements principaux : programmation système, tests d'intrusion web et remédiation, protocoles cryptographiques, droit et éthique de la cybersécurité.
 
-**Deux échanges universitaires à l'étranger.** Un semestre au Canada (Java, C++ et génie logiciel) et un semestre en Écosse (mathématiques et programmation).
-
 ## Compétences
 
 **Langages** : C, C++, Python, Java, JavaScript, PHP, SQL, R
 
-**Développement** : Django REST Framework, Node.js, Express, MySQL, Firebase
+**Développement** : Django REST Framework, Node.js, Express, MySQL, Firebase, Vercel
 
 **Sécurité applicative** : authentification par session et par jeton JWT, hachage des mots de passe avec bcrypt, requêtes SQL paramétrées contre les injections, gestion des secrets par variables d'environnement
 
