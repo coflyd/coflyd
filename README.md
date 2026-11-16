@@ -2,8 +2,6 @@
 
 Étudiante en quatrième année d'école d'ingénieurs (niveau M1), en majeure cybersécurité. Je recherche un **stage technique en cybersécurité d'avril à août 2027**, idéalement au sein d'une mission large qui me permette de découvrir le plus de domaines possible.
 
-Ma formation m'a d'abord donné de solides bases en développement logiciel. Elles me servent aujourd'hui à comprendre la sécurité de l'intérieur : savoir comment une application est construite permet de savoir comment elle peut être attaquée, puis comment la protéger.
-
 ## Formation
 
 **Majeure cybersécurité, section internationale.** Diplôme d'ingénieur accrédité par la CTI. Enseignements principaux : programmation système, tests d'intrusion web et remédiation, protocoles cryptographiques, droit et éthique de la cybersécurité.
